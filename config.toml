@@ -2,3 +2,6 @@ baseURL = "http://rutgerwillems.com/"
 languageCode = "en-us"
 title = "Rutger Willems"
 theme = "hyde"
+[params]
+  layoutReverse = true
+  description = "Work in progress, indie hacker, designer & developper. First in, last out."
