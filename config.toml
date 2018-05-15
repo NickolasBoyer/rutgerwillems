@@ -1,0 +1,4 @@
+baseURL = "http://rutgerwillems.com/"
+languageCode = "en-us"
+title = "Rutger Willems"
+theme = "hyde"
