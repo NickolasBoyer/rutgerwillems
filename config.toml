@@ -1,4 +1,4 @@
-baseURL = "http://rutgerwillems.com/"
+baseURL = "rutgerwillems.com/"
 languageCode = "en-us"
 title = "Rutger Willems"
 theme = "hyde"
